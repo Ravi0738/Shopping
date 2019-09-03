@@ -1,0 +1,7 @@
+com\niit\testcases\OrderDetailsTestcase.class
+com\niit\testcases\CartTestCases.class
+com\niit\spring\AppTest.class
+com\niit\testcases\SupplierUnitTest.class
+com\niit\testcases\ProductUnitTest.class
+com\niit\testcases\CategoryUnitTest.class
+com\niit\testcases\UserInfoUnitTestcase.class
